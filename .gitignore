@@ -1,4 +1,4 @@
 .idea
 *.iml
 ./.web-crawler
-./node_modules
+node_modules

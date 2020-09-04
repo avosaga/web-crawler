@@ -1,0 +1,10 @@
+{
+  "name": "bestbuy",
+  "baseUrl": "http://bestbuy.com",
+  "landingPageUrl": "/site/tvs/oled-tvs/pcmcat301000050010.c?id=pcmcat301000050010",
+  "productUrlSelectors": [],
+  "productItemSelector": ".list-item",
+  "productDetailSelectors": {
+    "name": ".sku-header > a"
+  }
+}

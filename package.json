@@ -1,0 +1,15 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "Engineering case for tech interview",
+  "main": "web-crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvaro Sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "node-html-parser": "^1.2.20"
+  }
+}

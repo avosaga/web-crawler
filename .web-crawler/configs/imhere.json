@@ -1,0 +1,10 @@
+{
+  "name": "imhere",
+  "baseUrl": "https://imhere-app.com",
+  "landingPageUrl": "#/login",
+  "productUrlSelectors": [],
+  "productItemSelector": ".list-item",
+  "productDetailSelectors": {
+    "name": ".sku-header > a"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "kolonial",
+  "baseUrl": "https://kolonial.no",
+  "landingPageUrl": "/produkter/",
+  "productUrlSelectors": [
+    ".aggregation-filter-headline"
+  ],
+  "productItemSelector": ".product-list-item",
+  "productDetailSelectors": {
+    "name": ".name-main",
+    "description": ".name-extra",
+    "price": ".price.label.label-price",
+    "discountPrice": ".price.label.label-price-discounted",
+    "unitPrice": ".unit-price",
+    "available": ".not-for-sale"
+  }
+}
